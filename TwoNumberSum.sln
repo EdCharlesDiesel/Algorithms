@@ -3,9 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoNumberSum_", "TwoNumberSum\TwoNumberSum_.csproj", "{46081BD9-3702-4248-8FF8-4205E467826A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoNumberSum_", "TwoNumberSum\TwoNumberSum_.csproj", "{46081BD9-3702-4248-8FF8-4205E467826A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoNumberSum_Tests", "TwoNumberSum_Tests\TwoNumberSum_Tests.csproj", "{81350AA4-4F7D-4ABD-8D5F-C20B2EE6549C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoNumberSum_Tests", "TwoNumberSum_Tests\TwoNumberSum_Tests.csproj", "{81350AA4-4F7D-4ABD-8D5F-C20B2EE6549C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CAE7BF24-BCF4-45FE-876B-9A8009DF4F8E}"
+	ProjectSection(SolutionItems) = preProject
+		README.txt = README.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
