@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoNumberSum_", "TwoNumberSum\TwoNumberSum_.csproj", "{46081BD9-3702-4248-8FF8-4205E467826A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoNumberSum_Tests", "TwoNumberSum_Tests\TwoNumberSum_Tests.csproj", "{81350AA4-4F7D-4ABD-8D5F-C20B2EE6549C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46081BD9-3702-4248-8FF8-4205E467826A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46081BD9-3702-4248-8FF8-4205E467826A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46081BD9-3702-4248-8FF8-4205E467826A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46081BD9-3702-4248-8FF8-4205E467826A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81350AA4-4F7D-4ABD-8D5F-C20B2EE6549C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81350AA4-4F7D-4ABD-8D5F-C20B2EE6549C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81350AA4-4F7D-4ABD-8D5F-C20B2EE6549C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81350AA4-4F7D-4ABD-8D5F-C20B2EE6549C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADE33CE9-E912-49E5-A0AE-2C9AF681F001}
+	EndGlobalSection
+EndGlobal
