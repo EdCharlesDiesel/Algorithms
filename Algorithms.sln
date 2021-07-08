@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoNumberSum_", "TwoNumberSum\TwoNumberSum_.csproj", "{46081BD9-3702-4248-8FF8-4205E467826A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoNumberSum", "TwoNumberSum\TwoNumberSum.csproj", "{46081BD9-3702-4248-8FF8-4205E467826A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoNumberSum_Tests", "TwoNumberSum_Tests\TwoNumberSum_Tests.csproj", "{81350AA4-4F7D-4ABD-8D5F-C20B2EE6549C}"
 EndProject
