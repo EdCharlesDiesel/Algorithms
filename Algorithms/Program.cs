@@ -64,6 +64,7 @@ namespace Algorithms
         }
 
         //Using while loop
+        // Space Time complexity is O(n) | 0(1) space
         public static int[] TwoNumberSum(int[] array, int targetSum)
         {
             Array.Sort(array);
@@ -90,6 +91,7 @@ namespace Algorithms
         }
 
         //Using the HashSet table.
+        // Space Time complexity is O(n) | 0(1) space
         public static int[] TwoNumberSum_HashSet(int[] array, int targetSum)
         {
             HashSet<int> numbers = new HashSet<int>();
@@ -110,6 +112,7 @@ namespace Algorithms
         }
 
         // Using for loops
+        // Space Time complexity is O(n) | 0(1) space
         public static int[] TwoNumberSumFor(int[] array, int targerSum)
         {
             for (int i = 0; i < array.Length - 1; i++)
