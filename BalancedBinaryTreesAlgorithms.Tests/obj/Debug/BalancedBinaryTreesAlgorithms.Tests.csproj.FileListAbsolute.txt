@@ -1,0 +1,7 @@
+C:\x\Algorithms\BalancedBinaryTreesAlgorithms.Tests\obj\Debug\BalancedBinaryTreesAlgorithms.Tests.csprojResolveAssemblyReference.cache
+C:\x\Algorithms\BalancedBinaryTreesAlgorithms.Tests\bin\Debug\BalancedBinaryTreesAlgorithms.Tests.dll
+C:\x\Algorithms\BalancedBinaryTreesAlgorithms.Tests\bin\Debug\BalancedBinaryTreesAlgorithms.Tests.pdb
+C:\x\Algorithms\BalancedBinaryTreesAlgorithms.Tests\bin\Debug\BalancedBinaryTreesAlgorithms.exe
+C:\x\Algorithms\BalancedBinaryTreesAlgorithms.Tests\bin\Debug\BalancedBinaryTreesAlgorithms.pdb
+C:\x\Algorithms\BalancedBinaryTreesAlgorithms.Tests\obj\Debug\BalancedBinaryTreesAlgorithms.Tests.dll
+C:\x\Algorithms\BalancedBinaryTreesAlgorithms.Tests\obj\Debug\BalancedBinaryTreesAlgorithms.Tests.pdb

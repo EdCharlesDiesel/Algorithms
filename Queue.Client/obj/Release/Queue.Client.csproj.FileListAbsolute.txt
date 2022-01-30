@@ -1,0 +1,13 @@
+/Users/robert/Dropbox/Pluralsight/ads2-refresh/ads2-m8-collection-concurrency/exercise-files/Concurrent/Queue.Client/bin/Release/Queue.Client.exe
+/Users/robert/Dropbox/Pluralsight/ads2-refresh/ads2-m8-collection-concurrency/exercise-files/Concurrent/Queue.Client/bin/Release/Queue.Client.pdb
+/Users/robert/Dropbox/Pluralsight/ads2-refresh/ads2-m8-collection-concurrency/exercise-files/Concurrent/Queue.Client/bin/Release/Queue.Common.dll
+/Users/robert/Dropbox/Pluralsight/ads2-refresh/ads2-m8-collection-concurrency/exercise-files/Concurrent/Queue.Client/bin/Release/Queue.Locking.dll
+/Users/robert/Dropbox/Pluralsight/ads2-refresh/ads2-m8-collection-concurrency/exercise-files/Concurrent/Queue.Client/bin/Release/Queue.ReadWriteLock.dll
+/Users/robert/Dropbox/Pluralsight/ads2-refresh/ads2-m8-collection-concurrency/exercise-files/Concurrent/Queue.Client/bin/Release/Queue.Common.pdb
+/Users/robert/Dropbox/Pluralsight/ads2-refresh/ads2-m8-collection-concurrency/exercise-files/Concurrent/Queue.Client/bin/Release/Queue.Locking.pdb
+/Users/robert/Dropbox/Pluralsight/ads2-refresh/ads2-m8-collection-concurrency/exercise-files/Concurrent/Queue.Client/bin/Release/Queue.ReadWriteLock.pdb
+/Users/robert/Dropbox/Pluralsight/ads2-refresh/ads2-m8-collection-concurrency/exercise-files/Concurrent/Queue.Client/obj/Release/Queue.Client.csprojAssemblyReference.cache
+/Users/robert/Dropbox/Pluralsight/ads2-refresh/ads2-m8-collection-concurrency/exercise-files/Concurrent/Queue.Client/obj/Release/Queue.Client.csproj.CoreCompileInputs.cache
+/Users/robert/Dropbox/Pluralsight/ads2-refresh/ads2-m8-collection-concurrency/exercise-files/Concurrent/Queue.Client/obj/Release/Queue.Client.csproj.CopyComplete
+/Users/robert/Dropbox/Pluralsight/ads2-refresh/ads2-m8-collection-concurrency/exercise-files/Concurrent/Queue.Client/obj/Release/Queue.Client.exe
+/Users/robert/Dropbox/Pluralsight/ads2-refresh/ads2-m8-collection-concurrency/exercise-files/Concurrent/Queue.Client/obj/Release/Queue.Client.pdb
