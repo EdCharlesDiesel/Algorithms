@@ -41,6 +41,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue.Client.NonLocking", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue.ReadWriteLock", "..\..\Users\KhotsoCharles\Downloads\algorithms-data-structures-part-two\08\demos\src\Concurrent\Queue.ReadWriteLock\Queue.ReadWriteLock.csproj", "{8ABD47F6-4F60-478A-8978-0B2E11F41A55}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirportConnections", "AirportConnections\AirportConnections.csproj", "{DAF22C3F-35A9-439B-9E4F-1C0ADB965A0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareOfZeroes", "SquareOfZeroes\SquareOfZeroes.csproj", "{13EBEEE5-8DCD-47DD-A55B-F7C0A4C86452}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestIncreasingSubsequence1", "LongestIncreasingSubsequence1\LongestIncreasingSubsequence1.csproj", "{9525FD62-9D55-437D-8F81-731FD9BD4C6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RightSmallerThan", "RightSmallerThan\RightSmallerThan.csproj", "{EDB4143C-D9D8-44BD-BBD4-723B72BB5CFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -127,6 +135,22 @@ Global
 		{8ABD47F6-4F60-478A-8978-0B2E11F41A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8ABD47F6-4F60-478A-8978-0B2E11F41A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8ABD47F6-4F60-478A-8978-0B2E11F41A55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAF22C3F-35A9-439B-9E4F-1C0ADB965A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF22C3F-35A9-439B-9E4F-1C0ADB965A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF22C3F-35A9-439B-9E4F-1C0ADB965A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF22C3F-35A9-439B-9E4F-1C0ADB965A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13EBEEE5-8DCD-47DD-A55B-F7C0A4C86452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13EBEEE5-8DCD-47DD-A55B-F7C0A4C86452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13EBEEE5-8DCD-47DD-A55B-F7C0A4C86452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13EBEEE5-8DCD-47DD-A55B-F7C0A4C86452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9525FD62-9D55-437D-8F81-731FD9BD4C6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9525FD62-9D55-437D-8F81-731FD9BD4C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9525FD62-9D55-437D-8F81-731FD9BD4C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9525FD62-9D55-437D-8F81-731FD9BD4C6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDB4143C-D9D8-44BD-BBD4-723B72BB5CFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB4143C-D9D8-44BD-BBD4-723B72BB5CFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB4143C-D9D8-44BD-BBD4-723B72BB5CFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB4143C-D9D8-44BD-BBD4-723B72BB5CFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
