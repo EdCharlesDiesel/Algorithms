@@ -1,0 +1,4 @@
+C:\x\Algorithms\CollectionConcurrencyAlgorithms.Tests\bin\Debug\CollectionConcurrencyAlgorithms.Tests.dll
+C:\x\Algorithms\CollectionConcurrencyAlgorithms.Tests\bin\Debug\CollectionConcurrencyAlgorithms.Tests.pdb
+C:\x\Algorithms\CollectionConcurrencyAlgorithms.Tests\obj\Debug\CollectionConcurrencyAlgorithms.Tests.dll
+C:\x\Algorithms\CollectionConcurrencyAlgorithms.Tests\obj\Debug\CollectionConcurrencyAlgorithms.Tests.pdb

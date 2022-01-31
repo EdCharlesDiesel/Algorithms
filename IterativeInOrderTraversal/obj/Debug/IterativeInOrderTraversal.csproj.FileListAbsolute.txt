@@ -1,0 +1,5 @@
+C:\x\Algorithms\IterativeInOrderTraversal\bin\Debug\IterativeInOrderTraversal.exe.config
+C:\x\Algorithms\IterativeInOrderTraversal\bin\Debug\IterativeInOrderTraversal.exe
+C:\x\Algorithms\IterativeInOrderTraversal\bin\Debug\IterativeInOrderTraversal.pdb
+C:\x\Algorithms\IterativeInOrderTraversal\obj\Debug\IterativeInOrderTraversal.exe
+C:\x\Algorithms\IterativeInOrderTraversal\obj\Debug\IterativeInOrderTraversal.pdb

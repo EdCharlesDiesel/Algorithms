@@ -1,0 +1,5 @@
+C:\x\Algorithms\BTreeAlgorithms\bin\Debug\BTreeAlgorithms.exe.config
+C:\x\Algorithms\BTreeAlgorithms\bin\Debug\BTreeAlgorithms.exe
+C:\x\Algorithms\BTreeAlgorithms\bin\Debug\BTreeAlgorithms.pdb
+C:\x\Algorithms\BTreeAlgorithms\obj\Debug\BTreeAlgorithms.exe
+C:\x\Algorithms\BTreeAlgorithms\obj\Debug\BTreeAlgorithms.pdb

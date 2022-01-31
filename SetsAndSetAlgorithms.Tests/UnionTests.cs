@@ -69,7 +69,7 @@ namespace set_tests
             } };
         }
 
-        IEnumerator IEnumerable.GetEnumerator() => GetEnumerator();
+        IEnumerator IEnumerable.GetEnumerator() { GetEnumerator();}
     }
 
 

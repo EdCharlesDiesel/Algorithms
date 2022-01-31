@@ -1,0 +1,5 @@
+C:\x\Algorithms\CollectionConcurrencyAlgorithms\bin\Debug\CollectionConcurrencyAlgorithms.exe.config
+C:\x\Algorithms\CollectionConcurrencyAlgorithms\bin\Debug\CollectionConcurrencyAlgorithms.exe
+C:\x\Algorithms\CollectionConcurrencyAlgorithms\bin\Debug\CollectionConcurrencyAlgorithms.pdb
+C:\x\Algorithms\CollectionConcurrencyAlgorithms\obj\Debug\CollectionConcurrencyAlgorithms.exe
+C:\x\Algorithms\CollectionConcurrencyAlgorithms\obj\Debug\CollectionConcurrencyAlgorithms.pdb

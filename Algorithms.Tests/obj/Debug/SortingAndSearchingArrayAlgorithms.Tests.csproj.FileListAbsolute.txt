@@ -1,0 +1,7 @@
+C:\x\Algorithms\Algorithms.Tests\bin\Debug\SortingAndSearchingArrayAlgorithms.Tests.dll
+C:\x\Algorithms\Algorithms.Tests\bin\Debug\SortingAndSearchingArrayAlgorithms.Tests.pdb
+C:\x\Algorithms\Algorithms.Tests\bin\Debug\SortingAndSearchingArrayAlgorithms.exe
+C:\x\Algorithms\Algorithms.Tests\bin\Debug\SortingAndSearchingArrayAlgorithms.pdb
+C:\x\Algorithms\Algorithms.Tests\obj\Debug\SortingAndSearchingArrayAlgorithms.Tests.csprojResolveAssemblyReference.cache
+C:\x\Algorithms\Algorithms.Tests\obj\Debug\SortingAndSearchingArrayAlgorithms.Tests.dll
+C:\x\Algorithms\Algorithms.Tests\obj\Debug\SortingAndSearchingArrayAlgorithms.Tests.pdb
