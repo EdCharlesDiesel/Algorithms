@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromePartitioningMinCu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "longeststringChain", "longeststringChain\longeststringChain.csproj", "{24A62A5F-EAFD-45E3-9DA2-44C14FDDD948}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnuthMorrisPrattAlgorithm", "KnuthMorrisPrattAlgorithm\KnuthMorrisPrattAlgorithm.csproj", "{36A30083-6D76-493F-9F3C-D3FC0ED78DCA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -205,6 +207,10 @@ Global
 		{24A62A5F-EAFD-45E3-9DA2-44C14FDDD948}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24A62A5F-EAFD-45E3-9DA2-44C14FDDD948}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24A62A5F-EAFD-45E3-9DA2-44C14FDDD948}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36A30083-6D76-493F-9F3C-D3FC0ED78DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36A30083-6D76-493F-9F3C-D3FC0ED78DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36A30083-6D76-493F-9F3C-D3FC0ED78DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36A30083-6D76-493F-9F3C-D3FC0ED78DCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
