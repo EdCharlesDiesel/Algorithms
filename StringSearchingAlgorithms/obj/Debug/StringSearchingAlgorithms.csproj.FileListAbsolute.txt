@@ -1,1 +1,0 @@
-C:\x\Algorithms\StringSearchingAlgorithms\obj\Debug\StringSearchingAlgorithms.csprojResolveAssemblyReference.cache

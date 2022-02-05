@@ -1,0 +1,4 @@
+C:\x\Algorithms\HeapsAndPriorityQueuesAlgorithms.Tests\bin\Debug\HeapsAndPriorityQueuesAlgorithms.Tests.dll
+C:\x\Algorithms\HeapsAndPriorityQueuesAlgorithms.Tests\bin\Debug\HeapsAndPriorityQueuesAlgorithms.Tests.pdb
+C:\x\Algorithms\HeapsAndPriorityQueuesAlgorithms.Tests\obj\Debug\HeapsAndPriorityQueuesAlgorithms.Tests.dll
+C:\x\Algorithms\HeapsAndPriorityQueuesAlgorithms.Tests\obj\Debug\HeapsAndPriorityQueuesAlgorithms.Tests.pdb

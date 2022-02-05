@@ -1,0 +1,5 @@
+C:\x\Algorithms\IsValidSubsequence\bin\Debug\IsValidSubsequence.exe.config
+C:\x\Algorithms\IsValidSubsequence\bin\Debug\IsValidSubsequence.exe
+C:\x\Algorithms\IsValidSubsequence\bin\Debug\IsValidSubsequence.pdb
+C:\x\Algorithms\IsValidSubsequence\obj\Debug\IsValidSubsequence.exe
+C:\x\Algorithms\IsValidSubsequence\obj\Debug\IsValidSubsequence.pdb

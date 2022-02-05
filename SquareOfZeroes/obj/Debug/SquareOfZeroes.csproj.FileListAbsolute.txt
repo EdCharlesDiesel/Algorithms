@@ -1,0 +1,5 @@
+C:\x\Algorithms\SquareOfZeroes\bin\Debug\SquareOfZeroes.exe.config
+C:\x\Algorithms\SquareOfZeroes\bin\Debug\SquareOfZeroes.exe
+C:\x\Algorithms\SquareOfZeroes\bin\Debug\SquareOfZeroes.pdb
+C:\x\Algorithms\SquareOfZeroes\obj\Debug\SquareOfZeroes.exe
+C:\x\Algorithms\SquareOfZeroes\obj\Debug\SquareOfZeroes.pdb

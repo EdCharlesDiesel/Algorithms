@@ -1,0 +1,5 @@
+C:\x\Algorithms\RightSmallerThan\bin\Debug\RightSmallerThan.exe.config
+C:\x\Algorithms\RightSmallerThan\bin\Debug\RightSmallerThan.exe
+C:\x\Algorithms\RightSmallerThan\bin\Debug\RightSmallerThan.pdb
+C:\x\Algorithms\RightSmallerThan\obj\Debug\RightSmallerThan.exe
+C:\x\Algorithms\RightSmallerThan\obj\Debug\RightSmallerThan.pdb

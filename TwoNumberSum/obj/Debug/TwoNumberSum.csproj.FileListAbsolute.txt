@@ -1,0 +1,5 @@
+C:\x\Algorithms\TwoNumberSum\bin\Debug\TwoNumberSum.exe.config
+C:\x\Algorithms\TwoNumberSum\bin\Debug\TwoNumberSum.exe
+C:\x\Algorithms\TwoNumberSum\bin\Debug\TwoNumberSum.pdb
+C:\x\Algorithms\TwoNumberSum\obj\Debug\TwoNumberSum.exe
+C:\x\Algorithms\TwoNumberSum\obj\Debug\TwoNumberSum.pdb

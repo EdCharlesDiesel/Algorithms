@@ -1,0 +1,5 @@
+C:\x\Algorithms\longeststringChain\bin\Debug\longeststringChain.exe.config
+C:\x\Algorithms\longeststringChain\bin\Debug\longeststringChain.exe
+C:\x\Algorithms\longeststringChain\bin\Debug\longeststringChain.pdb
+C:\x\Algorithms\longeststringChain\obj\Debug\longeststringChain.exe
+C:\x\Algorithms\longeststringChain\obj\Debug\longeststringChain.pdb

@@ -1,0 +1,4 @@
+C:\x\Algorithms\SetsAndSetAlgorithms.Tests\bin\Debug\SetsAndSetAlgorithms.Tests.dll
+C:\x\Algorithms\SetsAndSetAlgorithms.Tests\bin\Debug\SetsAndSetAlgorithms.Tests.pdb
+C:\x\Algorithms\SetsAndSetAlgorithms.Tests\obj\Debug\SetsAndSetAlgorithms.Tests.dll
+C:\x\Algorithms\SetsAndSetAlgorithms.Tests\obj\Debug\SetsAndSetAlgorithms.Tests.pdb

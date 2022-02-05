@@ -1,0 +1,5 @@
+C:\x\Algorithms\RightSiblingTree\bin\Debug\RightSiblingTree.exe.config
+C:\x\Algorithms\RightSiblingTree\bin\Debug\RightSiblingTree.exe
+C:\x\Algorithms\RightSiblingTree\bin\Debug\RightSiblingTree.pdb
+C:\x\Algorithms\RightSiblingTree\obj\Debug\RightSiblingTree.exe
+C:\x\Algorithms\RightSiblingTree\obj\Debug\RightSiblingTree.pdb

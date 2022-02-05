@@ -1,0 +1,5 @@
+C:\x\Algorithms\FlattenBinaryTree\bin\Debug\FlattenBinaryTree.exe.config
+C:\x\Algorithms\FlattenBinaryTree\bin\Debug\FlattenBinaryTree.exe
+C:\x\Algorithms\FlattenBinaryTree\bin\Debug\FlattenBinaryTree.pdb
+C:\x\Algorithms\FlattenBinaryTree\obj\Debug\FlattenBinaryTree.exe
+C:\x\Algorithms\FlattenBinaryTree\obj\Debug\FlattenBinaryTree.pdb

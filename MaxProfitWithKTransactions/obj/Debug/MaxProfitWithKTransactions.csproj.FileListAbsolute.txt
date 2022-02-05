@@ -1,0 +1,5 @@
+C:\x\Algorithms\MaxProfitWithKTransactions\bin\Debug\MaxProfitWithKTransactions.exe.config
+C:\x\Algorithms\MaxProfitWithKTransactions\bin\Debug\MaxProfitWithKTransactions.exe
+C:\x\Algorithms\MaxProfitWithKTransactions\bin\Debug\MaxProfitWithKTransactions.pdb
+C:\x\Algorithms\MaxProfitWithKTransactions\obj\Debug\MaxProfitWithKTransactions.exe
+C:\x\Algorithms\MaxProfitWithKTransactions\obj\Debug\MaxProfitWithKTransactions.pdb

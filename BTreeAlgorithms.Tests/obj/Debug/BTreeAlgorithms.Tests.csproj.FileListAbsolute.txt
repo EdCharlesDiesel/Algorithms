@@ -1,0 +1,4 @@
+C:\x\Algorithms\BTreeAlgorithms.Tests\bin\Debug\BTreeAlgorithms.Tests.dll
+C:\x\Algorithms\BTreeAlgorithms.Tests\bin\Debug\BTreeAlgorithms.Tests.pdb
+C:\x\Algorithms\BTreeAlgorithms.Tests\obj\Debug\BTreeAlgorithms.Tests.dll
+C:\x\Algorithms\BTreeAlgorithms.Tests\obj\Debug\BTreeAlgorithms.Tests.pdb

@@ -1,0 +1,5 @@
+C:\x\Algorithms\AllKindsOfNodeDepths\bin\Debug\AllKindsOfNodeDepths.exe.config
+C:\x\Algorithms\AllKindsOfNodeDepths\bin\Debug\AllKindsOfNodeDepths.exe
+C:\x\Algorithms\AllKindsOfNodeDepths\bin\Debug\AllKindsOfNodeDepths.pdb
+C:\x\Algorithms\AllKindsOfNodeDepths\obj\Debug\AllKindsOfNodeDepths.exe
+C:\x\Algorithms\AllKindsOfNodeDepths\obj\Debug\AllKindsOfNodeDepths.pdb
