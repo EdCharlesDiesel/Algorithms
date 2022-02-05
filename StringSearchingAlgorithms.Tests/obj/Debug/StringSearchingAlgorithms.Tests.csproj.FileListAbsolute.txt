@@ -2,3 +2,4 @@ C:\x\Algorithms\StringSearchingAlgorithms.Tests\bin\Debug\StringSearchingAlgorit
 C:\x\Algorithms\StringSearchingAlgorithms.Tests\bin\Debug\StringSearchingAlgorithms.Tests.pdb
 C:\x\Algorithms\StringSearchingAlgorithms.Tests\obj\Debug\StringSearchingAlgorithms.Tests.dll
 C:\x\Algorithms\StringSearchingAlgorithms.Tests\obj\Debug\StringSearchingAlgorithms.Tests.pdb
+C:\x\Algorithms\StringSearchingAlgorithms.Tests\obj\Debug\StringSearchingAlgorithms.Tests.csprojResolveAssemblyReference.cache

@@ -3,3 +3,4 @@ C:\x\Algorithms\Algorithms\bin\Debug\SortingAndSearchingArrayAlgorithms.exe
 C:\x\Algorithms\Algorithms\bin\Debug\SortingAndSearchingArrayAlgorithms.pdb
 C:\x\Algorithms\Algorithms\obj\Debug\SortingAndSearchingArrayAlgorithms.exe
 C:\x\Algorithms\Algorithms\obj\Debug\SortingAndSearchingArrayAlgorithms.pdb
+C:\x\Algorithms\Algorithms\obj\Debug\SortingAndSearchingArrayAlgorithms.csprojResolveAssemblyReference.cache

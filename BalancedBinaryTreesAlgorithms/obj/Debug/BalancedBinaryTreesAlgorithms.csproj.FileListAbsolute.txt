@@ -3,3 +3,4 @@ C:\x\Algorithms\BalancedBinaryTreesAlgorithms\bin\Debug\BalancedBinaryTreesAlgor
 C:\x\Algorithms\BalancedBinaryTreesAlgorithms\bin\Debug\BalancedBinaryTreesAlgorithms.pdb
 C:\x\Algorithms\BalancedBinaryTreesAlgorithms\obj\Debug\BalancedBinaryTreesAlgorithms.exe
 C:\x\Algorithms\BalancedBinaryTreesAlgorithms\obj\Debug\BalancedBinaryTreesAlgorithms.pdb
+C:\x\Algorithms\BalancedBinaryTreesAlgorithms\obj\Debug\BalancedBinaryTreesAlgorithms.csprojResolveAssemblyReference.cache

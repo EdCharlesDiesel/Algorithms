@@ -1,0 +1,5 @@
+C:\x\Algorithms\DepthFirstSearch\bin\Debug\DepthFirstSearch.exe.config
+C:\x\Algorithms\DepthFirstSearch\bin\Debug\DepthFirstSearch.exe
+C:\x\Algorithms\DepthFirstSearch\bin\Debug\DepthFirstSearch.pdb
+C:\x\Algorithms\DepthFirstSearch\obj\Debug\DepthFirstSearch.exe
+C:\x\Algorithms\DepthFirstSearch\obj\Debug\DepthFirstSearch.pdb
