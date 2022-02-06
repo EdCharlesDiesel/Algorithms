@@ -4,16 +4,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7F0BE5CD-C8AA-460B-8F44-6A78761ED354}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <ProjectGuid>{3AE1384B-84D5-447B-B72D-9F2E90165BEB}</ProjectGuid>
+    <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ProductSum</RootNamespace>
-    <AssemblyName>ProductSum</AssemblyName>
+    <RootNamespace>Wintellect.PowerCollections</RootNamespace>
+    <AssemblyName>Wintellect.PowerCollections</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -23,7 +22,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -41,11 +39,32 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Algorithms.cs" />
+    <Compile Include="Bag.cs" />
+    <Compile Include="BigList.cs" />
+    <Compile Include="CollectionBase.cs" />
+    <Compile Include="Comparers.cs" />
+    <Compile Include="Deque.cs" />
+    <Compile Include="DictionaryBase.cs" />
+    <Compile Include="Hash.cs" />
+    <Compile Include="ListBase.cs" />
+    <Compile Include="MultiDictionary.cs" />
+    <Compile Include="MultiDictionaryBase.cs" />
+    <Compile Include="OrderedBag.cs" />
+    <Compile Include="OrderedDictionary.cs" />
+    <Compile Include="OrderedMultiDictionary.cs" />
+    <Compile Include="OrderedSet.cs" />
+    <Compile Include="Pair.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
+    <Compile Include="ReadOnlyCollectionBase.cs" />
+    <Compile Include="ReadOnlyDictionaryBase.cs" />
+    <Compile Include="ReadOnlyListBase.cs" />
+    <Compile Include="ReadOnlyMultiDictionaryBase.cs" />
+    <Compile Include="RedBlack.cs" />
+    <Compile Include="Set.cs" />
+    <Compile Include="Strings.cs" />
+    <Compile Include="Triple.cs" />
+    <Compile Include="Util.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

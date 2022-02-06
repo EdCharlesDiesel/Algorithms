@@ -85,6 +85,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoublyLinkedList", "DoublyL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NthFibonacci", "NthFibonacci\NthFibonacci.csproj", "{25AB29B7-6A6D-447D-A5CF-E2752056F3C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductSum", "ProductSum\ProductSum.csproj", "{7F0BE5CD-C8AA-460B-8F44-6A78761ED354}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{2CABEC43-68E1-491A-A1EF-569615F7A921}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -259,6 +263,14 @@ Global
 		{25AB29B7-6A6D-447D-A5CF-E2752056F3C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25AB29B7-6A6D-447D-A5CF-E2752056F3C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25AB29B7-6A6D-447D-A5CF-E2752056F3C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F0BE5CD-C8AA-460B-8F44-6A78761ED354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F0BE5CD-C8AA-460B-8F44-6A78761ED354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F0BE5CD-C8AA-460B-8F44-6A78761ED354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F0BE5CD-C8AA-460B-8F44-6A78761ED354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CABEC43-68E1-491A-A1EF-569615F7A921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CABEC43-68E1-491A-A1EF-569615F7A921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CABEC43-68E1-491A-A1EF-569615F7A921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CABEC43-68E1-491A-A1EF-569615F7A921}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

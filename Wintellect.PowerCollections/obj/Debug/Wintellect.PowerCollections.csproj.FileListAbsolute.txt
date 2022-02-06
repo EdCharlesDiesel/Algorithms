@@ -1,0 +1,5 @@
+C:\x\C# Fundamentals 4.5\Chapter 19 Data Structures and Algorithm Complexity\Chapter19\Wintellect.PowerCollections\bin\Debug\Wintellect.PowerCollections.dll
+C:\x\C# Fundamentals 4.5\Chapter 19 Data Structures and Algorithm Complexity\Chapter19\Wintellect.PowerCollections\bin\Debug\Wintellect.PowerCollections.pdb
+C:\x\C# Fundamentals 4.5\Chapter 19 Data Structures and Algorithm Complexity\Chapter19\Wintellect.PowerCollections\obj\Debug\Wintellect.PowerCollections.dll
+C:\x\C# Fundamentals 4.5\Chapter 19 Data Structures and Algorithm Complexity\Chapter19\Wintellect.PowerCollections\obj\Debug\Wintellect.PowerCollections.pdb
+C:\x\C# Fundamentals 4.5\Chapter 19 Data Structures and Algorithm Complexity\Chapter19\Wintellect.PowerCollections\obj\Debug\Wintellect.PowerCollections.csprojResolveAssemblyReference.cache
